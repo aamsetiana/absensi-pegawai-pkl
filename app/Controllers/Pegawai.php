@@ -40,6 +40,10 @@ class Pegawai extends BaseController
         return view('user/tambah-user', $data);
     }
 
+    public function tes(){
+        echo"";
+    }
+
     public function tambahPegawai()
     {
         $data = [
