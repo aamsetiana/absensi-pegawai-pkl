@@ -41,7 +41,7 @@ class Pegawai extends BaseController
     }
 
     public function tes(){
-        echo"";
+        echo"tes aja";
     }
 
     public function tambahPegawai()
